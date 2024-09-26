@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/bank-app-react/static/css/main.15683e33.css",
+    "main.js": "/bank-app-react/static/js/main.bba9f98d.js",
+    "static/js/453.ed3810f9.chunk.js": "/bank-app-react/static/js/453.ed3810f9.chunk.js",
+    "static/media/fa-solid-900.ttf": "/bank-app-react/static/media/fa-solid-900.07ed6d5fa32c1d54af0f.ttf",
+    "static/media/fa-brands-400.ttf": "/bank-app-react/static/media/fa-brands-400.0ff70dcbf135d859ebf3.ttf",
+    "static/media/fa-solid-900.woff2": "/bank-app-react/static/media/fa-solid-900.93f719f4d62bfa3e748c.woff2",
+    "static/media/fa-brands-400.woff2": "/bank-app-react/static/media/fa-brands-400.bb8d5a145e22822103fb.woff2",
+    "static/media/plan-your-move-to-canada.jpeg": "/bank-app-react/static/media/plan-your-move-to-canada.d367c14d49f1962673dd.jpeg",
+    "static/media/fa-regular-400.ttf": "/bank-app-react/static/media/fa-regular-400.17a6e1aebccdbaa39e78.ttf",
+    "static/media/left-hero.jpg": "/bank-app-react/static/media/left-hero.b99e11b9e3c69cefbdd7.jpg",
+    "static/media/fa-regular-400.woff2": "/bank-app-react/static/media/fa-regular-400.bc3722686635b5f86132.woff2",
+    "static/media/fa-v4compatibility.ttf": "/bank-app-react/static/media/fa-v4compatibility.0f6cb412603527bda691.ttf",
+    "static/media/fa-v4compatibility.woff2": "/bank-app-react/static/media/fa-v4compatibility.6cfec8414be20e2c3426.woff2",
+    "index.html": "/bank-app-react/index.html",
+    "main.15683e33.css.map": "/bank-app-react/static/css/main.15683e33.css.map",
+    "main.bba9f98d.js.map": "/bank-app-react/static/js/main.bba9f98d.js.map",
+    "453.ed3810f9.chunk.js.map": "/bank-app-react/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.15683e33.css",
+    "static/js/main.bba9f98d.js"
+  ]
+}
